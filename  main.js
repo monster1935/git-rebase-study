@@ -10,4 +10,5 @@ export function testUser1() {
 
 export function study() {
     console.log('fun study');
+    console.log('fun line 2');
 }
