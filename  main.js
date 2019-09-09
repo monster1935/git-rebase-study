@@ -23,3 +23,6 @@ export function test2() {
 export function feature_1() {
     console.log('in feature 1 function')
 }
+export function feature_2() {
+    console.log('in feature 1 function')
+}
