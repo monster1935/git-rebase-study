@@ -19,3 +19,7 @@ export function study() {
 export function test2() {
     console.log('in test2 function')
 }
+
+export function feature_1() {
+    console.log('in feature 1 function')
+}
