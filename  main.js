@@ -26,3 +26,7 @@ export function feature_1() {
 export function feature_2() {
     console.log('in feature 1 function')
 }
+export function feature_3() {
+    console.log('in feature 1 function')
+}
+
